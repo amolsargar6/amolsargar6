@@ -18,11 +18,11 @@
 
 ### 🚀 Task Manager App (React + Spring Boot)
 A full-stack task management tool with user authentication, task CRUD, and responsive UI.  
-🔗 [GitHub Repo](#)
+
 
 ### 📱 Expense Tracker (React Native)
 A mobile app to track personal expenses, built with React Native. Features include navigation, input handling, and local storage.  
-🔗 [GitHub Repo](#)
+🔗 [Expense Tracker](https://github.com/amolsargar6/ReactNative/tree/main/ExpenseTracker)
 
 ---
 
