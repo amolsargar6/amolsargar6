@@ -29,10 +29,10 @@
 
 ## 🛠 Services I Offer (Freelance / Consulting)
 
-- 🔹 **Backend Development** – RESTful APIs with **Java & Spring Boot**, database integration, and secure business logic.  
-- 🔹 **Frontend Development** – Web apps with **React.js** and mobile apps (**Android/iOS**) using **React Native**.  
-- 🔹 **Oracle Cloud Solutions** – ADF middleware development, BI Publisher reporting, VBCS app development, data migration (FBDI).  
-- 🔹 **Integration Support** – Designing and maintaining **Oracle Cloud PaaS & SaaS integrations**.  
+🔹 **Backend Development** – RESTful APIs with **Java & Spring Boot**, database integration, and secure business logic.  
+🔹 **Frontend Development** – Web apps with **React.js** and mobile apps (**Android/iOS**) using **React Native**.  
+🔹 **Oracle Cloud Solutions** – ADF middleware development, BI Publisher reporting, VBCS app development, data migration (FBDI).  
+🔹 **Integration Support** – Designing and maintaining **Oracle Cloud PaaS & SaaS integrations**.  
 
 💡 *Available for freelance projects, consulting assignments, or collaborations in full-stack and Oracle Cloud development.*  
 
