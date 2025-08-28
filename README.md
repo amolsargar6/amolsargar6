@@ -23,7 +23,18 @@
 - Created **custom BI Publisher reports** for operational and financial insights.  
 - Hands-on experience with **VBCS** for front-end apps and **Groovy scripting** for Oracle CX customizations.  
 - Led **data migration projects** using FBDI templates and validated legacy-to-Oracle Cloud transitions.  
-- Strong exposure to **Fusion modules** (Finance, Procurement, HCM) in client environments.  
+- Strong exposure to **Fusion modules** (Finance, Procurement, HCM) in client environments.
+
+---
+
+## 🛠 Services I Offer (Freelance / Consulting)
+
+- 🔹 **Backend Development** – RESTful APIs with **Java & Spring Boot**, database integration, and secure business logic.  
+- 🔹 **Frontend Development** – Web apps with **React.js** and mobile apps (**Android/iOS**) using **React Native**.  
+- 🔹 **Oracle Cloud Solutions** – ADF middleware development, BI Publisher reporting, VBCS app development, data migration (FBDI).  
+- 🔹 **Integration Support** – Designing and maintaining **Oracle Cloud PaaS & SaaS integrations**.  
+
+💡 *Available for freelance projects, consulting assignments, or collaborations in full-stack and Oracle Cloud development.*  
 
 ---
 
