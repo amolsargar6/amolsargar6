@@ -14,6 +14,19 @@
 
 ---
 
+## 💼 Professional Experience
+
+### 🔹 Integration Developer & Core Java Developer – Oracle Cloud Domain  
+- Designed and maintained **custom integrations** on Oracle Cloud PaaS.  
+- Developed enterprise-grade applications using **ADF (Java-based middleware framework)**.  
+- Built and supported **Spring Boot APIs** for GET/POST operations across modules.  
+- Created **custom BI Publisher reports** for operational and financial insights.  
+- Hands-on experience with **VBCS** for front-end apps and **Groovy scripting** for Oracle CX customizations.  
+- Led **data migration projects** using FBDI templates and validated legacy-to-Oracle Cloud transitions.  
+- Strong exposure to **Fusion modules** (Finance, Procurement, HCM) in client environments.  
+
+---
+
 ## 📂 Featured Projects
 
 ### 🚀 Task Manager App (React + Spring Boot)
