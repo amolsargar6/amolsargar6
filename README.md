@@ -53,6 +53,8 @@ A mobile app to track personal expenses, built with React Native. Features inclu
 ## 🎓 Certifications
 - 📱 React Native Certification – [Udemy]
 - ☕ Oracle Java Foundations Associate – *In Progress*
+- Oracle Ai Agent Studio
+- Oracle APEX Developer
 
 ---
 
